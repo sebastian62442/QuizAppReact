@@ -1,0 +1,84 @@
+{
+  "results": [
+    {
+      "category": "Science: Computers",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The HTML5 standard was published in 2014.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The first computer bug was an actual bug (a moth) found inside a computer.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The programming language 'Python' is based off a snake species.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Linux was first created as an alternative to Windows XP.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "CSS stands for Cascading Style Sheets.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "IPv6 uses 128 bits for its IP address.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The Windows ME operating system was released in the year 2000.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "JavaScript was created in 10 days.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The logo for Snapchat is a Ghost.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "RAM stands for Random Access Memory.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    }
+  ]
+}
